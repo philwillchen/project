@@ -12,6 +12,11 @@ html {
 
 body {
   padding-top: 60px;
+  background: url('default-bg-image.jpg') repeat-x ;
+  background-position:top left;
+  background-size:cover;
+  background-attachment:fixed;
+  background-repeat:no-repeat
 }
 
 section {
